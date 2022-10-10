@@ -1,2 +1,2 @@
 # geet-app
-Practicing branch merging
+A repo for practicing git and github -- practicing branch merging
